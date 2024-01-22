@@ -1,4 +1,5 @@
 # Exploratory analysis and presenting insights using Excel and Tableau
-* Using Excel, analysed data to identify initial insights.
-* Using SQL, imported data sets into the Postgres database and quried the data to identify insights and areas to explore further.
-* Imported data into Tableau and created a dashboard to communicate initial insights identified.
+*	Defined structured approaches to address key business problems related to purchasing behaviour and advertising effectiveness.
+*	Utilized SQL and Python for exploratory analysis, managing and manipulating large data stores to extract actionable insights.
+*	Created insightful reports and Tableau dashboards, visually presenting the relationships between social media marketisation, and purchasing behaviour.
+*	Effectively communicated findings to stakeholders, contributing to informed marketing strategies and resource allocation decisions.
